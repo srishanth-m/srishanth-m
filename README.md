@@ -1,8 +1,8 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Srishanth</h1>
-- 🌱 I’m currently learning **React FrontEnd Development**
+- 🌱 I’m currently learning **MERN Development**
 
-- 💬 Ask me about **Javascript , React , Redux**
+- 💬 Ask me about **Javascript , React , Redux , Node js , Express , Mongoose **
 
 - 📫 How to reach me **srishanthmule@gmail.com**
 
